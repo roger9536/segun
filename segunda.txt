@@ -1,0 +1,21 @@
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="SPORT.TV1	
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:-1 tvg-id="Benfica tv
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Benfica_TV_1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1 tvg-id=SPORT.TV2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1 tvg-id=SPORT.TV3
+https://tvembed.net/spt3/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=22bd3965306770d33da04cc85c559c4c57cc3a59-d463fc26b23c2897ad8eaad566035ec7-1704025264-1704018064
+#EXTINF:-1 tvg-id=MYTIME MOVIE
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id=Moviesphere		
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/playlist/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb563b196577619098cd2167d1f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5bad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa3aae10942de6ca1ac4d40c02e58e683179cc914ead5dd4696458071f1419fc4a188d045e037a0598c6f4fcee339521ce3e249a78b3586d5887d2c9b7024346f3f8486a68e82b81b25393addead9b075fa69bfe19b52a756c96ab95d833f8468a305afe40cd1c5090d85204bc6940a1b4181f3a583e93a79d70c93f6bc8d2631c9a6452a04a13fa9e70518e3fc2830a4ba3ffad46862c228bd72adb4508992a286a09c84599e2ac4fd39f9574d636c1e0b8a51a3d53895799d309fc71d25535a57edb46184d7891060390fb18950824740f9c3ddd7964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebde54482b852e73d7c6a03b5f33e560a192e87a0355b420ca92fd3dac4e5781e13aca69d8ca77d0c4768471c5cf1a18d16bc81cf2e1113bb230568661f1a93449b29e809470421de0d91cb2d71960d3522f6ad5c0c0d398ea9cb94cbce5260d27d46c2e52382ae8b3d/175/1920x1080_4715744/index.m3u8
+#EXTINF:-1 tvg-id=CinePIX TV
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w927066957.m3u8
+#EXTINF:-1 tvg-id=Grjngo 
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
